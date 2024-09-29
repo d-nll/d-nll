@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d-nll
-- 👀 I’m interested in Reading Books and Creating music
+- 👀 I’m interested in Reading Books
 - 🌱 I’m currently learning on Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - You can DM me on Discord @lok_iii
